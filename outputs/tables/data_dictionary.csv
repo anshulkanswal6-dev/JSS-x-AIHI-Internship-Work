@@ -1,0 +1,13 @@
+Feature,Description
+LIMIT_BAL,Amount of given credit in NT dollars.
+SEX,Gender of the customer.
+EDUCATION,Education level category.
+MARRIAGE,Marital status category.
+AGE,Age of the customer in years.
+PAY_0,Repayment status in the most recent month.
+PAY_2,Repayment status two months before the target month.
+PAY_3,Repayment status three months before the target month.
+PAY_4,Repayment status four months before the target month.
+PAY_5,Repayment status five months before the target month.
+PAY_6,Repayment status six months before the target month.
+DEFAULT,Whether the customer defaulted on the credit card payment in the following month.
